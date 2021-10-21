@@ -1,4 +1,4 @@
-#    Project By GOMaster
+#    Project By TeamGOMaster
 
 __help__ = """
 ** ✨ 𝐆𝐎 𝐌𝐚𝐬𝐭𝐞𝐫 [ᴀꜱꜱɪꜱᴛᴀɴᴛ] - A Powerful Telegram Chat Manager ✨ **
