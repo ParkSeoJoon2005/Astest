@@ -1,4 +1,4 @@
-#    Project By TeamNatsuki
+#    Project By TeamGOMaster
 
 __help__ = """
 ** GPS **
@@ -25,7 +25,7 @@ __help__ = """
  - /blue : Blues text
 
 ** Telegraph **
-- /telegraph <reply to jpg, jpeg, png, gif or mp4>: upload to telegraph.
+- /telegraph <reply to jpg, jpeg, png, gif or mp4>: upload to Telegraph.
 
 ** More **
  - /phone <tp no> : Track Phone no
