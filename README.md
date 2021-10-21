@@ -22,54 +22,11 @@
 
 > Thanks to everyone Who Starred this Repo, That is the Greatest Pleasure We have !
 
-## Avaiilable on Telegram as [@TheGOMasterHubAssistantBot](https://t.me/GOMasterHubAssistantBot)
+## Available on Telegram as [@TheGOMasterHubAssistantBot](https://t.me/GOMasterHubAssistantBot)
 
 # ⚡ Support
-<a href="https://t.me/NatsukiSupport_Official"><img src="https://img.shields.io/badge/Join-Telegram%20Channel-red.svg?logo=Telegram"></a>
-<a href="https://t.me/Natsuki_updates"><img src="https://img.shields.io/badge/Join-Telegram%20Group-blue.svg?logo=telegram"></a>
+<a href="https://t.me/GOTrainerOfficialOfficial"><img src="https://img.shields.io/badge/Join-Telegram%20Channel-red.svg?logo=Telegram"></a>
+<a href="https://t.me/Natsuki_updates"><img src="https://img.shields.io/badge/Join-Telegram%20Chat-blue.svg?logo=telegram"></a>
 
-### Self-hosting (For Devs) 😎
-```sh
-# Install Git First (apt-instll git)
-$ git clone https://github.com/Sadew451/Natsuki
-$ cd Natsuki
-# Upgrade sources
-$ bash deploy.sh
-# Install All Requirements 
-$ pip3 install -r requirements.txt
-# Rename ./Natsuki/data/bot_conf.yaml.example to bot_conf.yaml and fill
-# Start Bot 
-$ python3 -m Natsuki
-```
-### Mandatory Vars 🙋‍♀️
-```
-[+] Make Sure You Add All These Mandatory Vars. 
-    [-] APP_ID:   You can get this value from @SDMyTgOrgBot
-    [-] APP_HASH :   You can get this value from @SDMyTgOrgBot
-    [-] MONGO_URI : Your Mongo DB DataBase Url. .
-    [-] TOKEN: Get from botfarther
-    [-] DATABASE_URL: from elephantsql.com
-    [-] OWNER_ID: ur id
-[+] The Natsuki won't run without setting the mandatory vars.
-```
-![Contributors](https://contrib.rocks/image?repo=Sadew451/Natsuki)
-
-## Special Credits
-- [Inukaasith](https://gitlab.com/inukaasith)
-- [TeamDaisyX](https://github.com/TeamDaisyX)
-- [Damantha126](https://github.com/Damantha126)
-- [AlbertEinsteinTG](https://github.com/AlbertEinsteinTG)
-- [ImJanindu](https://github.com/ImJanindu) 
-- [darkphoenix](https://github.com/darkphoenix2601) 
-- [M.Furkan](https://github.com/muhammedfurkan)
-
-All other credits mentioned on top of scripts
-
-Anything missing kindly let us know at [Natsuki Support](https://t.me/NatsukiSupport_Official) or simply submit a pull request on the readme.
-
-## Devs & Contributors
-
-#### • SADEW JAYASEKARA    »»  <a href="https://github.com/SADEW451" alt="SADEW451"> <img src="https://img.shields.io/badge/SADEW451-90302f?logo=github" /></a> (OWNER)
-#### • DAMANTHA JASINGHA  »»  <a href="https://github.com/DAMANTHA126" alt="DAMANTHAJASINGHA"> <img src="https://img.shields.io/badge/DAMANTHA126-82CAFA?logo=github" /></a> (DEV)
-#### • THENULA SENEVIRATHNA »»  <a href="https://T.me/Thenula66" alt="THENULA SENEVIRATHNA"></a> (DEV).
+## #TeamGOMaster
  
