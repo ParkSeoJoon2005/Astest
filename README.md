@@ -20,26 +20,9 @@
   
 </p>
 
-> Thanks to everyone who starred Natsuki, That is the greatest pleasure we have !
+> Thanks to everyone Who Starred this Repo, That is the Greatest Pleasure We have !
 
-# 🧙‍♀️ Deploy Guide
-
-## Complete guide on deploying @TheNatsukiBot's clone on Heroku.
-
-## This Tutorial is Old Bot Video But its Ok You Can Use it ✨
-
-[![Tutorial](https://yt-embed.herokuapp.com/embed?v=YyiO6jdPzXg)](https://youtu.be/YyiO6jdPzXg)
-
-☆ Video by [SADEW JAYASEKARA](https://www.youtube.com/channel/UCdSBUUQ1v0_IIElBR_1B72w) ☆
-
-## TeamNatsuki
-
-## Avaiilable on Telegram as [@TheNatsukiBot](https://t.me/thenatsukibot)
-
-# 🏃‍♂️ Deploy 
-## Connect Github Cant Deploy On Url
-
-<a href="https://www.youtube.com/channel/UCdSBUUQ1v0_IIElBR_1B72w"><img src="https://img.shields.io/badge/How%20To-Deploy-red.svg?logo=Youtube"></a>
+## Avaiilable on Telegram as [@TheGOMasterHubAssistantBot](https://t.me/GOMasterHubAssistantBot)
 
 # ⚡ Support
 <a href="https://t.me/NatsukiSupport_Official"><img src="https://img.shields.io/badge/Join-Telegram%20Channel-red.svg?logo=Telegram"></a>
