@@ -1,6 +1,5 @@
-#    Project By TeamNatsuki
-#    Copyright (C) 2020-2021 by @SadewJ
-#    This programme is a part of Liza TG bot project
+#    Project By TeamGOMaster
+#    Copyright (C) 2020-2021 by @TheGOMasterHubJ
 #
 #    This program is free software: you can redistribute it and/or modify
 #    it under the terms of the GNU Affero General Public License as published by
@@ -197,12 +196,8 @@ def config(client, message):
 __help__ = """
 *ForceSubscribe:*
 
-❂ Daisy can mute members who are not subscribed your channel until they subscribe
-❂ When enabled I will mute unsubscribed members and show them a unmute button. When they pressed the button I will unmute them
-
-*Setup*
-1) First of all add me in the group as admin with ban users permission and in the channel as admin.
-Note: Only creator of the group can setup me and i will not allow force subscribe again if not done so.
+❂ Can mute members who are not Subscribed your Channel until they Subscribe
+❂ When enabled I will mute UnSubscribed members and show them a unmute button. When they pressed the button I will unmute them
  
 *Commmands*
 ❂ /ForceSubscribe - To get the current settings.
