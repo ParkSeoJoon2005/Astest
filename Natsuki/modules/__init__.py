@@ -1,4 +1,4 @@
-#    Project By TeamNatsuki
+#    Project By TeamGOMaster
 
 from Natsuki import LOAD, LOGGER, NO_LOAD
 
