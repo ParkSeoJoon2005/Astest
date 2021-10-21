@@ -1,4 +1,4 @@
-#    Project By TeamNatsuki
+#    Project By TeamGOMaster
 
 import datetime
 import html
