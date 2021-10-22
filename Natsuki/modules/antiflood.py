@@ -1,4 +1,4 @@
-#    Project By TeamNatsuki
+#    Project By TeamGOMaster
 
 import html
 from typing import Optional
