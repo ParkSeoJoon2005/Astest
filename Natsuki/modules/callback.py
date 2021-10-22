@@ -1,6 +1,6 @@
 from pyrogram import filters
 
-# Credits @Pokurt
+# Credits @TheGOMaster
 
 
 def callback_data(data):
