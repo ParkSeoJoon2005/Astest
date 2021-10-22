@@ -1,4 +1,4 @@
-#   Project By TeamNatsuki
+#   Project By TeamGOMaster
 
 import json
 import os
@@ -66,7 +66,7 @@ def import_data(update, context):
         # only import one group
         if len(data) > 1 and str(chat.id) not in data:
             msg.reply_text(
-                "There are more than one group in this file and the chat.id is not same! How am i supposed to import it?"
+                "There are more than one Chat in this file and the chat.id is not same! How am i supposed to import it?"
             )
             return
 
@@ -377,12 +377,12 @@ def get_chat(chat_id, chat_data):
 __mod_name__ = "Backups"
 
 __help__ = """
-*Only for group owner:*
+*Only for Chat Owner:*
 
- ✪ `/import`: Reply to the backup file for the butler / emilia group to import as much as possible, making transfers very easy! \
+ ✪ `/import`: Reply to the backup file for the chat to import as much as possible, making transfers very easy! \
  Note that files / photos cannot be imported due to telegram restrictions.
 
- ✪ `/export`: Export group data, which will be exported are: rules, notes (documents, images, music, video, audio, voice, text, text buttons) \
+ ✪ `/export`: Export chat data, which will be exported are: rules, notes (documents, images, music, video, audio, voice, text, text buttons) \
 
 """
 
