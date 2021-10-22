@@ -595,7 +595,7 @@ def selfunban(context: CallbackContext, update: Update) -> str:
 
 __help__ = """
 *Kicks:*
- ✪ /kick <userhandle>*:* Kicks a user out of the group, (via handle, or reply)
+ ✪ /kick <userhandle>*:* Kicks a user out of the Chat, (via handle, or reply)
  ✪ /skick <userhandle>*:* Silently kicks a user out of the group, (via handle, or reply)
  ✪ /kickme*:* Kicks the user who used the command.
  
