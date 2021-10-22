@@ -452,7 +452,7 @@ def __stats__():
 __mod_name__ = "Blacklists"
 
 __help__ = """
-Blacklists are used to stop certain triggers from being said in a group. Any time the trigger is mentioned, the message will immediately be deleted. A good combo is sometimes to pair this up with warn filters!
+Blacklists are used to stop certain triggers from being said in a Chat. Any time the trigger is mentioned, the message will immediately be deleted. A good combo is sometimes to pair this up with warn filters!
 *NOTE*: Blacklists do not affect group admins.
  • `/blacklist`*:* View the current blacklisted words.
 Admin only:
