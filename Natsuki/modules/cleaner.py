@@ -237,7 +237,7 @@ __help__ = """
  ✪ /listblue*:* list currently whitelisted commands
  
  *Following are Disasters only commands, admins cannot use these:*
- ✪ /gignoreblue <word>*:* globally ignores bluetext cleaning of saved word across Suzuya.
+ ✪ /gignoreblue <word>*:* globally ignores bluetext cleaning of saved word across
  ✪ /ungignoreblue <word>*:* remove said command from global cleaning list
 """
 
